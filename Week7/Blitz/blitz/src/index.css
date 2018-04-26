@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.feed-second {
+  max-width: 90%;
+  background: green;
+  margin-left: 10%;
+  width: 100%;
+}
+
+.App-intro {
+  max-width: 100%;
+  
+  height: auto;
+}
+
+.centerStuff {
+  max-width: 20%;
+  background: green;
+  margin-left: 40%;
+  width: 50%;
+}
+
