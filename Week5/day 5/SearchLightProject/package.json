@@ -1,0 +1,21 @@
+{
+  "name": "searchlightproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "nodemon": "^1.17.3"
+  },
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "lokijs": "^1.5.3",
+    "request": "^2.85.0"
+  },
+  "description": ""
+}

@@ -1,0 +1,25 @@
+get - fetch data
+post
+put
+patch
+delete
+head
+options
+trace
+
+
+
+ON MAC IN TERMINAL (console):
+
+curl: shows you everything that happens when you access a  webpage
+man [curl]: shows you the manual of some command
+nano: text editor inside of the cmd
+
+COMMANDS:
+
+
+cat ~/.ssh/id_rsa.pub
+With this you can connect to the server using your public key
+
+su - michal
+This logs you in to the user 'michal' who is user with superprivileges

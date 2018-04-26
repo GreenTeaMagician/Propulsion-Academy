@@ -1,0 +1,5 @@
+name: django-intro
+dependencies:
+  - python=3.6
+  - pip:
+    - django

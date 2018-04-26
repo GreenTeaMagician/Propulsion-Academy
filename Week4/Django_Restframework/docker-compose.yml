@@ -1,0 +1,29 @@
+version: '3'
+services:
+  database:
+      image: postgres:9.6.1
+      restart: always
+      env_file:
+        - dev.env
+      volumes:
+        - database:/var/lib/postgresql/data
+  app:
+      image: registry.gitlab.propulsion-home.ch/greenteamagician/django-social-app:master
+      restart: always
+      env_file:
+        - dev.env
+      ports:
+        - "8080:8000"
+        - "4754:22"
+      command: "/usr/sbin/sshd -D"
+      depends_on:
+        - database
+      volumes:
+        - ./app/:/app
+        - ./media-files:/media-files
+        - ./static-files:/static-files
+        - ./scripts:/scripts
+        - ./database:/database
+
+volumes:
+    database:
