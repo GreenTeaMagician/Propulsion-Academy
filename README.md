@@ -20,4 +20,4 @@ During a three month bootcamp into fullstack-development, we have performed an i
 
 **Week 6** - Week 6 was defined by a lightning introduction to jQuery, React, Redux, where we spent a lot of time working on state changes, reducers and trying to understand the whole mechanics of the tool. We created a "dance floor" in jQuery, our own front end social media page (we borrowed from our own, or a sample API). It was also a crash course into HTML and CSS.
 
-**Week 7** Although we have studied worked through a lot of practical skills, we hadn't gotten any theoretical/mathematical background. Week 7 was designed around giving us a better understanding of how we can use data science, algorithms and other things in order to assist us in becoming more rounded software engineers.
+**Week 7** - Although we have studied worked through a lot of practical skills, we hadn't gotten any theoretical/mathematical background. Week 7 was designed around giving us a better understanding of how we can use data science, algorithms and other things in order to assist us in becoming more rounded software engineers.
