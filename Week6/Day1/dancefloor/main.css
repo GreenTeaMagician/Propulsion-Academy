@@ -1,0 +1,54 @@
+div.square {
+	border: solid 21px #FF0000;
+	width: 50px;
+	height: 50px;
+  }
+
+#container {
+	position: relative;
+	top: 50px;
+	outline:2px solid #000;
+	font-size: 0;
+	margin:auto;
+	height:500px;
+	width:500px;
+	padding: 0;
+	border: none;
+}
+
+.grid {
+	margin:0;
+	padding:0;
+	border:none;
+	outline:1px solid #000;
+	display:inline-block;
+}
+
+.ColumnClass  {
+	border: solid 1px rgb(2, 183, 255);
+	height: 50px;
+	width: 50px;
+	float: left;
+}
+
+.RowClass  {
+	border: solid 1px rgb(0, 152, 240);
+	height: 50px;
+	width: 520px;
+	Background-color: rgb(0, 255, 64);
+}
+
+#newStyleRows  {
+	border: solid 30px rgb(2, 183, 255);
+	height: 50px;
+	width: 50px;
+	background-color: rgb(131, 1, 163);
+	float: right
+}
+.black {
+	border: solid 1px rgb(2, 183, 255);
+	height: 50px;
+	width: 50px;
+	background-color: rgb(0, 0, 0);
+	float: left;
+}
