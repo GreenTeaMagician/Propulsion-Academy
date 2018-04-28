@@ -6,7 +6,7 @@ During a three month bootcamp into fullstack-development, we have performed an i
 
 ### Backend
 
-**Week 1** - During this week, we were given a thorough introduction to Python, where we solved simple exercises for the first few days (including OOP). The week concluded with PyGame, where we developed a Snake, and a [Bricks](https://github.com/GreenTeaMagician/Propulsion-Academy/tree/master/Week1/Day5/Bricks) game.
+**Week 1** - During this week, we were given a thorough introduction to Python, where we solved simple exercises for the first few days (including OOP). The week concluded with PyGame, where we developed a Snake, and a [Bricks](https://github.com/GreenTeaMagician/Propulsion-Academy/tree/master/Week1/Day5/Bricks/final) game.
 
 **Week 2** - After a thorough python jumpstart, we turned our attention to storing information on databases in mySQL and looked at virtual servers, as well as flake8, flask, jinja, and how to use git, PyCharm sand Docker. The final project was a [Todo](https://github.com/GreenTeaMagician/Propulsion-Academy/tree/master/Week2/Day5/rest-flask-api-master) app using all of these elements.
 
@@ -26,8 +26,8 @@ During a three month bootcamp into fullstack-development, we have performed an i
 
 ### Professional Project
 
-**Week 9** - Pending
+**Week 9** - In this week, we were asked to complete a yelp/social media app on our desktops in groups of three. I worked with two other teammates to create such an app from scratch, using virtually everything that we have learned in this course. The project will be available via link right here.
 
 ### Personal project
 
-**Week 10 - Week 13** - Pending
+**Week 10 - 13** - Pending
