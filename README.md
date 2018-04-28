@@ -16,7 +16,7 @@ During a three month bootcamp into fullstack-development, we have performed an i
 
 ### Frontend
 
-**Week 5** - At this point, we left Python behind and got introduced to Javascript and functional Programming. Although the structure of the week was very similar to Week 1, it was more fast-paced, because we had a little more experience coding. One of the projects we have completed on day 2, was a [Pong](https://github.com/GreenTeaMagician/Propulsion-Academy/tree/master/Week5/day%202/Pong) game.
+**Week 5** - At this point, we left Python behind and got introduced to Javascript and functional Programming. Although the structure of the week was very similar to Week 1, it was more fast-paced, because we had a little more experience coding. One of the projects we have completed on day 2, was a [Pong](https://github.com/GreenTeaMagician/Propulsion-Academy/tree/master/Week5/Day2/Pong) game.
 
 **Week 6** - Week 6 was defined by a lightning introduction to jQuery, React, Redux, where we spent a lot of time working on state changes, reducers and trying to understand the whole mechanics of the tool. We created a "dance floor" in jQuery, and build an online market using react and Redux. The project was also a crash course into HTML and CSS.
 
