@@ -28,6 +28,6 @@ During a three month bootcamp into fullstack-development, we have performed an i
 
 **Week 9** - In this week, we were asked to complete a yelp/social media app on our desktops in groups of three. I worked with two other teammates to create such an app from scratch, using virtually everything that we have learned in this course. The project will be available via link right here.
 
-### Personal project
+### Personal project: Filigree
 
-**Week 10 - 13** - Pending
+**Week 10 - 13** - The final project asked us to make our own idea of an app into reality. During this time, there were no lessons, people had the chance to come and go as they please and people worked independently from each other (with the exception of those people who decided to work together). We had intructors available if we had specific questions, but the idea was to do this project on your own, with the things we've learned throughout the course. The project has been placed in a separate repository, which you can check out [here](https://github.com/MichalBurgunder/Filigree).
